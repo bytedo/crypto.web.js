@@ -1,0 +1,15 @@
+dist
+node_modules
+
+*.sublime-project
+*.sublime-workspace
+package-lock.json
+
+._*
+
+.Spotlight-V100
+.Trashes
+.DS_Store
+.AppleDouble
+.LSOverride
+

@@ -1,0 +1,26 @@
+{
+  "name": "crypto.web.js",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "crypto.js浏览器版本,提供常用的加密封装",
+  "keywords": [
+    "md5",
+    "sha1",
+    "sha256",
+    "sha512",
+    "hmac",
+    "base64",
+    "crypto",
+    "crypto-js",
+    "crypto.js"
+  ],
+  "author": "Yutent <yutent.io@gmail.com>",
+  "scripts": {
+    "start": "node ./build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bytedo/crypto.web.js.git"
+  },
+  "license": "MIT"
+}
